@@ -1,1 +1,5 @@
-
+The code predict the house rent using Machine Learning. 
+This peojct is for beginners who are getting started with Machine learning and Data sciences.
+This project uses python, numpy, pandas, and Sklearn libraries.
+The data set is given in CSV file.
+If you want you can downlaod data set from kaggle.
